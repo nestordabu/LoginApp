@@ -1,0 +1,15 @@
+com.example.loginapp
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string personal_greeting
+style Base_Theme_LoginApp
+style Theme_LoginApp
+xml backup_rules
+xml data_extraction_rules
